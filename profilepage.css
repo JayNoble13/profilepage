@@ -1,0 +1,233 @@
+.ultimatecontainer {
+    width: 800px;
+    height: 700px;
+    margin: auto;
+    background-color: white;
+
+}
+
+.boxes {
+    display: flex;
+    vertical-align: auto;
+    margin-left: 40px;
+}
+
+.header {
+    width: 100%;
+    height: 65px;
+    outline-style: solid;
+    outline-color: black;
+    background-color: black;
+    color: white;
+    vertical-align:middle;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.grey {
+    color: grey;
+    font-size: 75%;
+    text-decoration: none;
+}
+
+.prof {
+    font-size: smaller;
+    text-decoration: none;
+    color: whitesmoke
+    ;
+}
+button {
+    margin-left: 75px;
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    font-size: large;
+    color: white;
+
+}
+
+.bigcontainer1 {
+    vertical-align: auto;
+    margin-top: 25px;
+    align-items: center;
+}
+
+h3 {
+    background-color: rgb(74, 73, 73);
+    color: white;
+    height: 30px;
+    padding-right: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    padding-left: 15px;
+}
+
+h4 {
+    background-color: rgb(74, 73, 73);
+    color: white;
+    height: 30px;
+    text-align: right;
+    padding-right: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+}
+
+.container {
+    width: 450px;
+    height: 295px;
+    margin: auto;
+    background-color: white;
+    outline-style: solid;
+    outline-color: grey;
+    outline-width: 3px;
+}
+
+.top {
+    padding: 20px;
+    width: 410px;
+    height: 30px;
+    background-color: skyblue;
+}
+
+.user {
+    width: 65px;
+    height: 65px;
+    padding-top: 20px;
+}
+
+h1 {
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-bottom: -10px;
+}
+
+.map {
+    height: 20px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.seattle{
+    display: inline-flex;
+    width: 100px;
+    margin-bottom: -100px;
+
+}
+
+#city {
+    font-size: larger;
+    font-style: normal;
+    margin-left: 10px;
+}
+
+.about {
+    margin-left: 15px;
+}
+
+.prof {
+    display: inline-flex;
+}
+
+.gear {
+    height: 15px;
+    margin-left: 15px;
+}
+
+a {
+    padding-left: 5px;
+}
+
+.container2 {
+    width: 450px;
+    height: 175px;
+    margin: auto;
+    background-color: white;
+    outline-style: solid;
+    outline-color: grey;
+    outline-width: 3px;
+    margin-top: 25px;
+}
+
+.bigcontainer2 {
+    vertical-align: auto;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.container3 {
+    width: 250px;
+    height: 225px;
+    margin: auto;
+    background-color: white;
+    outline-style: solid;
+    outline-color: grey;
+    outline-width: 3px;
+    margin-bottom: 25px;
+
+}
+
+.edinfo {
+    margin-left: 15px;
+    font-family: lucida;
+}
+
+.cd {
+    font-size: x-large;
+    font-family: lucida;
+}
+
+.date {
+    color: grey;
+    font-size: 115%;
+}
+
+.belts {
+
+}
+
+.cr {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.reqs {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.options {
+    height: 35px;
+}
+
+.user2 {
+    height: 45px;
+}
+
+.container4 {
+    width: 250px;
+    height: 375px;
+    margin: auto;
+    background-color: white;
+    outline-style: solid;
+    outline-color: grey;
+    outline-width: 3px;
+
+}
+
+#yc {
+    vertical-align: bottom;
+
+}
+
+.fart {
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+
+}
+
+.reqs2 {
+        font-size: x-large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        padding-left: 15px;
+    }
